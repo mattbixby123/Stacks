@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class largestRectangleInHistogram {
+public class LargestRectangleInHistogram {
     public int largestRectangleArea(int[] heights) {
         // Get length of input array
         int n = heights.length;

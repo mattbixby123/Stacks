@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Stack;
 
-public class carFleet {
+public class CarFleet {
     public int carFleet(int target, int[] position, int[] speed) {
         // Create array of pairs to store position and speed together
         int[][] pair = new int[position.length][2];

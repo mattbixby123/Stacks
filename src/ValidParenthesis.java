@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class validParenthesis {
+public class ValidParenthesis {
     public boolean isValid(String s) {
         // Initialize empty stack
         Stack<Character> stack = new Stack<>();

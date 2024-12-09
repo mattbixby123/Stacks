@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class dailyTemperatures {
+public class DailyTemperatures {
     public int[] dailyTemperatures(int[] temperatures) {
         // Initialize result array to store days until warmer temperature
         int[] res = new int[temperatures.length];

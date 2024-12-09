@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class evalRPN {
+public class EvalRPN {
     public int evalRPN(String[] tokens) {
         // Create stack to store numbers
         Stack<Integer> stack = new Stack<>();

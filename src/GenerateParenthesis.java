@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class generateParenthesis {
+public class GenerateParenthesis {
     public List<String> generateParenthesis(int n) {
         // Create list of lists to store results for 0 to n pairs of parentheses
         List<List<String>> res = new ArrayList<>();
